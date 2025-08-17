@@ -1,2 +1,2 @@
-# Ethnus_mern
-codes and active gitpages for the given task
+# EthnusMern
+Codes and active gitpages for the given task
